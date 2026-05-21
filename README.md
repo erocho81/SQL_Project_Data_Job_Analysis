@@ -115,13 +115,13 @@ order by
 ```
 
 This is the breakdown for the most demanded skills for the top :
-- Sql is the most in-demand skill. SQL appears in every single high-paying role listed, making it the core technical skill for data analysts.
-- Python is the Second Most Valuable Skill. Python appears in most top-paying jobs, especially senior and director-level roles.
+- **Sql is the most in-demand skill.** SQL appears in every single high-paying role listed, making it the core technical skill for data analysts.
+- **Python is the Second Most Valuable Skill.** Python appears in most top-paying jobs, especially senior and director-level roles.
 This suggests that combining SQL + Python significantly increases salary potential.
-- Business Intelligence Tools are Highly Valued: Python appears in most top-paying jobs, especially senior and director-level roles.
+- **Business Intelligence Tools are Highly Valued:** Python appears in most top-paying jobs, especially senior and director-level roles.
 This suggests that combining SQL + Python significantly increases salary potential.
-- Cloud & Big Data Skills Increase Salary Potential. Higher-paying leadership roles included cloud and data engineering technologies (AWS, Azure, Databricks, Snowflake,Pyspark)
--Senior Roles Require Broader Tech Stacks: Director and Principal Analyst positions requested Collaboration tools (Jira, Confluence), DevOps/version control (Git, Bitbucket, GitLab, Jenkins), Cloud platforms. This suggests senior analysts are expected to work cross-functionally with engineering teams.
+- **Cloud & Big Data Skills Increase Salary Potential.** Higher-paying leadership roles included cloud and data engineering technologies (AWS, Azure, Databricks, Snowflake,Pyspark)
+-**Senior Roles Require Broader Tech Stacks:** Director and Principal Analyst positions requested Collaboration tools (Jira, Confluence), DevOps/version control (Git, Bitbucket, GitLab, Jenkins), Cloud platforms. This suggests senior analysts are expected to work cross-functionally with engineering teams.
 
 | Skill | Frequency |
 |---|---|
@@ -171,12 +171,12 @@ ORDER BY
 limit 5
 ```
 The insights are:
-- SQL is the Most In-Demand Skill for Remote Data Analysts: SQL appeared in 7,291 job postings, making it the most requested skill by a large margin.
+- **SQL is the Most In-Demand Skill for Remote Data Analysts:** SQL appeared in 7,291 job postings, making it the most requested skill by a large margin.
 This confirms SQL as the foundational skill for data analyst roles.
-- Excel Remains Extremely Important: Despite modern analytics tools, Excel ranked second with 4,611 postings.
+- **Excel Remains Extremely Important:** Despite modern analytics tools, Excel ranked second with 4,611 postings.
 This highlights that spreadsheet analysis and business reporting are still core responsibilities in many analyst positions.
-- Python is a Critical Technical Skill: Python appeared in 4,330 postings, showing strong demand for automation, data cleaning, and advanced analytics capabilities.
-- Visualization Skills are Highly Valued: Tableau and Power BI ranked in the top five. This indicates companies heavily prioritize dashboarding and data storytelling skills.
+- **Python is a Critical Technical Skill:** Python appeared in 4,330 postings, showing strong demand for automation, data cleaning, and advanced analytics capabilities.
+- **Visualization Skills are Highly Valued:** Tableau and Power BI ranked in the top five. This indicates companies heavily prioritize dashboarding and data storytelling skills.
 
 | skills | skill_count |
 |---|---|
@@ -216,12 +216,12 @@ limit 25
 ```
 
 The Insights are:
-- Big Data & Machine Learning Skills Command the Highest Salaries: Big data processing, Machine learning, Cloud engineering, Data infrastructure. PySpark ranked #1 with an average salary of $208,172, significantly higher than traditional analyst tools.
-- Data Engineering Skills Increase Analyst Salaries: Databricks, Airflow, Kubernetes, Linux, PostgreSQL appear among the top-paying skills, suggesting analysts with engineering capabilities are highly valued.
-- Machine Learning Libraries Are Extremely Valuable: Scikit-learn, Pandas, NumPy, DataRobot, Watson. This indicates that analysts who can move beyond reporting into predictive analytics and machine learning can access much higher salaries.
-- Cloud & Platform Knowledge Leads to Better Compensation: associated with salaries above $120K+, highlighting the growing importance of cloud-based analytics environments.
-- DevOps & Collaboration Tools are Surprisingly Valuable: this suggests companies increasingly expect senior analysts to collaborate closely with software and data engineering teams.
-- Traditional BI Skills Are Less Represented Among Top Salaries: Unlike previous analyses where SQL, Excel, and Tableau dominated demand, this salary-focused query shows that specialized technical skills tend to correlate with higher compensation.
+- **Big Data & Machine Learning Skills Command the Highest Salaries:** Big data processing, Machine learning, Cloud engineering, Data infrastructure. PySpark ranked #1 with an average salary of $208,172, significantly higher than traditional analyst tools.
+- **Data Engineering Skills Increase Analyst Salaries:** Databricks, Airflow, Kubernetes, Linux, PostgreSQL appear among the top-paying skills, suggesting analysts with engineering capabilities are highly valued.
+- **Machine Learning Libraries Are Extremely Valuable:** Scikit-learn, Pandas, NumPy, DataRobot, Watson. This indicates that analysts who can move beyond reporting into predictive analytics and machine learning can access much higher salaries.
+- **Cloud & Platform Knowledge Leads to Better Compensation:** associated with salaries above $120K+, highlighting the growing importance of cloud-based analytics environments.
+- **DevOps & Collaboration Tools are Surprisingly Valuable:** this suggests companies increasingly expect senior analysts to collaborate closely with software and data engineering teams.
+- **Traditional BI Skills Are Less Represented Among Top Salaries:** Unlike previous analyses where SQL, Excel, and Tableau dominated demand, this salary-focused query shows that specialized technical skills tend to correlate with higher compensation.
 
 | skills | avg_salary |
 |---|---|
@@ -287,12 +287,12 @@ LIMIT 25;
 ```
 
 The keys insights are: 
-- SQL Has the Best Combination of Demand and Salary. Highest demand (398 job postings) & Strong average salary ($97,237). This confirms SQL as the most essential skill for remote data analyst roles.
-- Python Offers Higher Salaries Than Other Core Analyst Tools. Although Python appeared in fewer postings than SQL or Excel, it had one of the highest salaries among commonly requested skills. This suggests Python skills provide a strong salary advantage.
-- Visualization Tools Are Highly Requested.Business intelligence tools continue to dominate analyst requirements.
-- Cloud & Data Engineering Skills Lead to Higher Salaries.
-- Traditional Office Tools Have High Demand but Lower Salaries (Excel, Word, PowerPoint,...). They appear frequently but generally correlate with lower salaries compared to programming and cloud technologies.
-- The Best Skill Combination for Data Analysts: The results suggest the most valuable analyst profile combines SQL for querying, Python or R for analytics, Tableau / Power BI for visualization, Cloud & warehouse tools like Snowflake or AWS.
+- **SQL Has the Best Combination of Demand and Salary.** Highest demand (398 job postings) & Strong average salary ($97,237). This confirms SQL as the most essential skill for remote data analyst roles.
+- **Python Offers Higher Salaries Than Other Core Analyst Tools.** Although Python appeared in fewer postings than SQL or Excel, it had one of the highest salaries among commonly requested skills. This suggests Python skills provide a strong salary advantage.
+- **Visualization Tools Are Highly Requested.** Business intelligence tools continue to dominate analyst requirements.
+- **Cloud & Data Engineering Skills Lead to Higher Salaries.**
+- **Traditional Office Tools Have High Demand but Lower Salaries (Excel, Word, PowerPoint,...).** They appear frequently but generally correlate with lower salaries compared to programming and cloud technologies.
+- **The Best Skill Combination for Data Analysts:** The results suggest the most valuable analyst profile combines SQL for querying, Python or R for analytics, Tableau / Power BI for visualization, Cloud & warehouse tools like Snowflake or AWS.
 
 | skill_id | skills | skill_count | avg_salary |
 |---|---|---|---|
